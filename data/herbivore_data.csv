@@ -1,0 +1,322 @@
+"site","year","habitat","patch","species_herbivore_new","species_name_herbivore_new","species_herbivore_new_groups","prevalence"
+"adv",2024,"adv_w","adv_w1","RANTAR","Rangifer_tarandus","RANTAR",0.8
+"adv",2024,"adv_w","adv_w1","GOOSE","Anser_brachyrhynchus or Branta_bernicla or Branta_leucopsis","GOOSE_1",0.63
+"adv",2024,"adv_w","adv_w1","LAGMUT","Lagopus_muta","LAGMUT",0.06
+"adv",2024,"adv_w","adv_w1","GOOSE/LAG","Lagopus_muta or Branta_leucopsis or Branta_bernicla or Anser_brachyrhynchus","GOOSE/LAG",0.03
+"adv",2024,"adv_w","adv_w2","RANTAR","Rangifer_tarandus","RANTAR",0.49
+"adv",2024,"adv_w","adv_w2","GOOSE","Anser_brachyrhynchus or Branta_bernicla or Branta_leucopsis","GOOSE_1",0.65
+"adv",2024,"adv_w","adv_w2","GOOSE/LAG","Lagopus_muta or Branta_leucopsis or Branta_bernicla or Anser_brachyrhynchus","GOOSE/LAG",0.39
+"adv",2024,"adv_w","adv_w3","RANTAR","Rangifer_tarandus","RANTAR",0.39
+"adv",2024,"adv_w","adv_w3","GOOSE","Anser_brachyrhynchus or Branta_bernicla or Branta_leucopsis","GOOSE_1",0.62
+"adv",2024,"adv_w","adv_w3","GOOSE/LAG","Lagopus_muta or Branta_leucopsis or Branta_bernicla or Anser_brachyrhynchus","GOOSE/LAG",0.3
+"adv",2024,"adv_d","adv_d1","RANTAR","Rangifer_tarandus","RANTAR",1
+"adv",2024,"adv_d","adv_d1","GOOSE","Anser_brachyrhynchus or Branta_bernicla or Branta_leucopsis","GOOSE_1",0.29
+"adv",2024,"adv_d","adv_d1","LAGMUT","Lagopus_muta","LAGMUT",0.03
+"adv",2024,"adv_d","adv_d1","GOOSE/LAG","Lagopus_muta or Branta_leucopsis or Branta_bernicla or Anser_brachyrhynchus","GOOSE/LAG",0.29
+"adv",2024,"adv_d","adv_d2","RANTAR","Rangifer_tarandus","RANTAR",0.99
+"adv",2024,"adv_d","adv_d2","GOOSE","Anser_brachyrhynchus or Branta_bernicla or Branta_leucopsis","GOOSE_1",0.17
+"adv",2024,"adv_d","adv_d2","LAGMUT","Lagopus_muta","LAGMUT",0.06
+"adv",2024,"adv_d","adv_d2","GOOSE/LAG","Lagopus_muta or Branta_leucopsis or Branta_bernicla or Anser_brachyrhynchus","GOOSE/LAG",0.42
+"adv",2024,"adv_d","adv_d3","RANTAR","Rangifer_tarandus","RANTAR",0.98
+"adv",2024,"adv_d","adv_d3","GOOSE","Anser_brachyrhynchus or Branta_bernicla or Branta_leucopsis","GOOSE_1",0.01
+"adv",2024,"adv_d","adv_d3","LAGMUT","Lagopus_muta","LAGMUT",0.03
+"adv",2024,"adv_d","adv_d3","GOOSE/LAG","Lagopus_muta or Branta_leucopsis or Branta_bernicla or Anser_brachyrhynchus","GOOSE/LAG",0.29
+"ala",2024,"ala_w","ala_w1","ANSALB","Anser_albifrons","ANSALB",0.69
+"ala",2024,"ala_h","ala_h1","ANSALB","Anser_albifrons","ANSALB",0.34
+"ala",2024,"ala_h","ala_h1","LAGLAG","Lagopus_lagopus","LAGLAG",0.17
+"ala",2024,"ala_w","ala_w2","ANSALB","Anser_albifrons","ANSALB",0.36
+"ala",2024,"ala_w","ala_w2","LAGLAG","Lagopus_lagopus","LAGLAG",0.09
+"ala",2024,"ala_h","ala_h2","ANSALB","Anser_albifrons","ANSALB",0.12
+"ala",2024,"ala_h","ala_h2","LAGLAG","Lagopus_lagopus","LAGLAG",0.04
+"ala",2024,"ala_w","ala_w3","ANSALB","Anser_albifrons","ANSALB",0.53
+"ala",2024,"ala_h","ala_h3","ANSALB","Anser_albifrons","ANSALB",0.47
+"ala",2024,"ala_h","ala_h3","LAGLAG","Lagopus_lagopus","LAGLAG",0.05
+"ale",2024,"ale_m","ale_m1","LEPARC","Lepus_arcticus","LEPARC",0.66
+"ale",2024,"ale_m","ale_m1","DICGRO","Dicrostonyx_groenlandicus","DICGRO",0.03
+"ale",2024,"ale_w","ale_w1","LEPARC","Lepus_arcticus","LEPARC",0.09
+"ale",2024,"ale_w","ale_w1","OVIMOS","Ovibos_moschatus","OVIMOS",0.03
+"ale",2024,"ale_m","ale_m2","LEPARC","Lepus_arcticus","LEPARC",0.92
+"ale",2024,"ale_m","ale_m2","DICGRO","Dicrostonyx_groenlandicus","DICGRO",0.01
+"ale",2024,"ale_m","ale_m3","DICGRO","Dicrostonyx_groenlandicus","DICGRO",0.2
+"ale",2024,"ale_m","ale_m3","LAGMUT","Lagopus_muta","LAGMUT",0.07
+"ale",2024,"ale_m","ale_m3","GOOSE","Anser_caerulescens or Branta_bernicla","GOOSE_2",0.02
+"ale",2024,"ale_m","ale_m3","LEPARC","Lepus_arcticus","LEPARC",0.04
+"ale",2024,"ale_m","ale_m3","OVIMOS","Ovibos_moschatus","OVIMOS",0.01
+"ale",2024,"ale_w","ale_w2","OVIMOS","Ovibos_moschatus","OVIMOS",0.02
+"ale",2024,"ale_w","ale_w2","LEPARC","Lepus_arcticus","LEPARC",0.01
+"ale",2024,"ale_w","ale_w2","RANTAR","Rangifer_tarandus","RANTAR",0.01
+"ale",2024,"ale_w","ale_w3","OVIMOS","Ovibos_moschatus","OVIMOS",0.19
+"ale",2024,"ale_w","ale_w3","LEPARC","Lepus_arcticus","LEPARC",0.13
+"ale",2024,"ale_w","ale_w3","DICGRO","Dicrostonyx_groenlandicus","DICGRO",0.01
+"aud",2023,"aud_m","aud_m3","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.04
+"aud",2023,"aud_m","aud_m3","OVIARI","Ovis_aries","OVIARI",0.02
+"aud",2023,"aud_m","aud_m2","OVIARI","Ovis_aries","OVIARI",0.02
+"aud",2023,"aud_m","aud_m1","OVIARI","Ovis_aries","OVIARI",0.03
+"aud",2023,"aud_m","aud_m1","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.04
+"aud",2023,"aud_h","aud_h3","LAGMUT","Lagopus_muta","LAGMUT",0.03
+"aud",2023,"aud_h","aud_h3","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.03
+"aud",2023,"aud_h","aud_h3","OVIARI","Ovis_aries","OVIARI",0.1
+"aud",2023,"aud_h","aud_h2","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.03
+"aud",2023,"aud_h","aud_h2","OVIARI","Ovis_aries","OVIARI",0.04
+"aud",2023,"aud_h","aud_h1","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.27
+"aud",2023,"aud_h","aud_h1","OVIARI","Ovis_aries","OVIARI",0.05
+"aud",2023,"aud_h","aud_h1","LAGMUT","Lagopus_muta","LAGMUT",0.02
+"cam",2023,"cam_d","cam_d2","GOOSE","Anser_albifrons or Branta_hutchinsii","GOOSE_3",0.6
+"cam",2023,"cam_d","cam_d2","DICGRO","Dicrostonyx_groenlandicus","DICGRO",0.06
+"cam",2023,"cam_d","cam_d2","LEPARC","Lepus_arcticus","LEPARC",0.1
+"cam",2023,"cam_d","cam_d3","GOOSE","Anser_albifrons or Branta_hutchinsii","GOOSE_3",0.54
+"cam",2023,"cam_d","cam_d3","LEPARC","Lepus_arcticus","LEPARC",0.15
+"cam",2023,"cam_d","cam_d3","DICGRO","Dicrostonyx_groenlandicus","DICGRO",0.02
+"cam",2023,"cam_w","cam_w3","GOOSE","Anser_albifrons or Branta_hutchinsii","GOOSE_3",0.82
+"cam",2023,"cam_d","cam_d1","GOOSE","Anser_albifrons or Branta_hutchinsii","GOOSE_3",0.73
+"cam",2023,"cam_d","cam_d1","DICGRO","Dicrostonyx_groenlandicus","DICGRO",0.03
+"cam",2023,"cam_d","cam_d1","LEPARC","Lepus_arcticus","LEPARC",0.09
+"cam",2023,"cam_w","cam_w1","LEPARC","Lepus_arcticus","LEPARC",0.03
+"cam",2023,"cam_w","cam_w1","GOOSE","Anser_albifrons or Branta_hutchinsii","GOOSE_3",0.32
+"cam",2023,"cam_w","cam_w1","LAGMUT","Lagopus_muta","LAGMUT",0.09
+"cam",2023,"cam_w","cam_w2","GOOSE","Anser_albifrons or Branta_hutchinsii","GOOSE_3",0.54
+"dov",2022,"dov_p","dov_p1","SMALLM","Myodes_rufocanus or Myodes_glareolus or Mus_musculus or Microtus_agrestis or Lemmus_lemmus","SMALLM_1",0.04
+"dov",2022,"dov_p","dov_p1","RANTAR","Rangifer_tarandus","RANTAR",0.01
+"dov",2022,"dov_p","dov_p1","LAGSP","Lagopus_muta or Lagopus_lagopus","LAGSP",0.21
+"dov",2022,"dov_p","dov_p2","OVIARI","Ovis_aries","OVIARI",0.02
+"dov",2022,"dov_p","dov_p2","SMALLM","Myodes_rufocanus or Myodes_glareolus or Mus_musculus or Microtus_agrestis or Lemmus_lemmus","SMALLM_1",0.04
+"dov",2022,"dov_p","dov_p2","LAGSP","Lagopus_muta or Lagopus_lagopus","LAGSP",0.03
+"dov",2022,"dov_p","dov_p2","RANTAR","Rangifer_tarandus","RANTAR",0.01
+"dov",2022,"dov_p","dov_p3","LAGSP","Lagopus_muta or Lagopus_lagopus","LAGSP",0.1
+"dov",2022,"dov_p","dov_p3","OVIARI","Ovis_aries","OVIARI",0.04
+"dov",2022,"dov_u","dov_u1","LEPTIM","Lepus_timidus","LEPTIM",0.05
+"dov",2022,"dov_u","dov_u1","LAGSP","Lagopus_muta or Lagopus_lagopus","LAGSP",0.04
+"dov",2022,"dov_u","dov_u1","OVIARI","Ovis_aries","OVIARI",0.03
+"dov",2022,"dov_u","dov_u2","LAGSP","Lagopus_muta or Lagopus_lagopus","LAGSP",0.02
+"dov",2022,"dov_u","dov_u2","OVIARI","Ovis_aries","OVIARI",0.07
+"dov",2022,"dov_u","dov_u2","LEPTIM","Lepus_timidus","LEPTIM",0.01
+"dov",2022,"dov_u","dov_u3","OVIARI","Ovis_aries","OVIARI",0.23
+"dov",2022,"dov_u","dov_u3","LAGSP","Lagopus_muta or Lagopus_lagopus","LAGSP",0.13
+"gol",2023,"gol_d","gol_d1","BRACAN","Branta_canadensis","BRACAN",0.83
+"gol",2023,"gol_d","gol_d1","LEPARC","Lepus_arcticus","LEPARC",0.01
+"gol",2023,"gol_d","gol_d2","BRACAN","Branta_canadensis","BRACAN",0.67
+"gol",2023,"gol_d","gol_d3","BRACAN","Branta_canadensis","BRACAN",0.57
+"gol",2023,"gol_d","gol_d3","LAGSP","Lagopus_lagopus or Lagopus_muta","LAGSP",0.11
+"gol",2023,"gol_d","gol_d3","LEPARC","Lepus_arcticus","LEPARC",0.02
+"gol",2023,"gol_w","gol_w1","BRACAN","Branta_canadensis","BRACAN",0.49
+"gol",2023,"gol_w","gol_w2","BRACAN","Branta_canadensis","BRACAN",0.9
+"gol",2023,"gol_w","gol_w2","LAGSP","Lagopus_lagopus or Lagopus_muta","LAGSP",0.09
+"gol",2023,"gol_w","gol_w3","BRACAN","Branta_canadensis","BRACAN",0.59
+"gre",2023,"gre_d","gre_d1","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.07
+"gre",2023,"gre_d","gre_d1","LEPARC","Lepus_arcticus","LEPARC",0.02
+"gre",2023,"gre_d","gre_d1","LAGMUT","Lagopus_muta","LAGMUT",0.01
+"gre",2023,"gre_d","gre_d2","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.02
+"gre",2023,"gre_d","gre_d2","LAGMUT","Lagopus_muta","LAGMUT",0.03
+"gre",2023,"gre_d","gre_d2","OVIMOS","Ovibos_moschatus","OVIMOS",0.01
+"gre",2023,"gre_d","gre_d3","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.14
+"gre",2023,"gre_m","gre_m1","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.53
+"gre",2023,"gre_m","gre_m1","LEPARC","Lepus_arcticus","LEPARC",0.16
+"gre",2023,"gre_m","gre_m1","LAGMUT","Lagopus_muta","LAGMUT",0.02
+"gre",2023,"gre_m","gre_m1","OVIMOS","Ovibos_moschatus","OVIMOS",0.15
+"gre",2023,"gre_m","gre_m2","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.88
+"gre",2023,"gre_m","gre_m2","LEPARC","Lepus_arcticus","LEPARC",0.02
+"gre",2023,"gre_m","gre_m2","LAGMUT","Lagopus_muta","LAGMUT",0.04
+"gre",2023,"gre_m","gre_m2","OVIMOS","Ovibos_moschatus","OVIMOS",0.07
+"gre",2023,"gre_m","gre_m3","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.5
+"gre",2023,"gre_m","gre_m3","LEPARC","Lepus_arcticus","LEPARC",0.03
+"gre",2023,"gre_m","gre_m3","LAGMUT","Lagopus_muta","LAGMUT",0.01
+"gre",2023,"gre_m","gre_m3","DICGRO","Dicrostonyx_groenlandicus","DICGRO",0.06
+"gre",2023,"gre_m","gre_m4","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.4
+"gre",2023,"gre_m","gre_m4","LEPARC","Lepus_arcticus","LEPARC",0.11
+"gre",2023,"gre_m","gre_m4","OVIMOS","Ovibos_moschatus","OVIMOS",0.17
+"ice",2022,"ice_w","ice_w2","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.39
+"ice",2022,"ice_w","ice_w1","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.75
+"ice",2022,"ice_w","ice_w3","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.76
+"ice",2022,"ice_w","ice_w3","OVIARI","Ovis_aries","OVIARI",0.02
+"ice",2022,"ice_d","ice_d1","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.77
+"ice",2022,"ice_d","ice_d1","LAGMUT","Lagopus_muta","LAGMUT",0.22
+"ice",2022,"ice_d","ice_d1","OVIARI","Ovis_aries","OVIARI",0.38
+"ice",2022,"ice_d","ice_d2","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.92
+"ice",2022,"ice_d","ice_d2","LAGMUT","Lagopus_muta","LAGMUT",0.07
+"ice",2022,"ice_d","ice_d2","OVIARI","Ovis_aries","OVIARI",0.1
+"ice",2022,"ice_d","ice_d3","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.86
+"ice",2022,"ice_d","ice_d3","OVIARI","Ovis_aries","OVIARI",0.16
+"ice",2022,"ice_d","ice_d3","LAGMUT","Lagopus_muta","LAGMUT",0.03
+"ice",2022,"ice_d","ice_d4","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.85
+"ice",2022,"ice_d","ice_d4","OVIARI","Ovis_aries","OVIARI",0.18
+"ice",2022,"ice_d","ice_d4","LAGMUT","Lagopus_muta","LAGMUT",0.01
+"ice",2022,"ice_d","ice_d5","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.65
+"ice",2022,"ice_d","ice_d5","OVIARI","Ovis_aries","OVIARI",0.17
+"ice",2022,"ice_d","ice_d5","LAGMUT","Lagopus_muta","LAGMUT",0.05
+"inu",2024,"inu_g","inu_g1","LAGSP","Lagopus_muta or Lagopus_lagopus","LAGSP",0.42
+"inu",2024,"inu_g","inu_g2","LAGSP","Lagopus_muta or Lagopus_lagopus","LAGSP",0.28
+"inu",2024,"inu_s","inu_s1","LAGSP","Lagopus_muta or Lagopus_lagopus","LAGSP",0.1
+"inu",2024,"inu_s","inu_s1","UROPAR","Urocitellus_parryii","UROPAR",0.01
+"kar",2022,"kar_p","kar_p1","GOOSE","Anser_brachyrhynchus or Branta_leucopsis","GOOSE_4",0.62
+"kar",2022,"kar_p","kar_p1","OVIMOS","Ovibos_moschatus","OVIMOS",0.19
+"kar",2022,"kar_p","kar_p2","GOOSE","Anser_brachyrhynchus or Branta_leucopsis","GOOSE_4",0.2
+"kar",2022,"kar_p","kar_p2","OVIMOS","Ovibos_moschatus","OVIMOS",0.54
+"kar",2022,"kar_p","kar_p3","GOOSE","Anser_brachyrhynchus or Branta_leucopsis","GOOSE_4",0.89
+"kar",2022,"kar_p","kar_p3","OVIMOS","Ovibos_moschatus","OVIMOS",0.14
+"kar",2022,"kar_u","kar_u1","GOOSE","Anser_brachyrhynchus or Branta_leucopsis","GOOSE_4",0.15
+"kar",2022,"kar_u","kar_u1","OVIMOS","Ovibos_moschatus","OVIMOS",0.4
+"kar",2022,"kar_u","kar_u1","DICGRO","Dicrostonyx_groenlandicus","DICGRO",0.03
+"kar",2022,"kar_u","kar_u1","LEPARC","Lepus_arcticus","LEPARC",0.01
+"kar",2022,"kar_u","kar_u2","GOOSE","Anser_brachyrhynchus or Branta_leucopsis","GOOSE_4",0.17
+"kar",2022,"kar_u","kar_u2","OVIMOS","Ovibos_moschatus","OVIMOS",0.72
+"kar",2022,"kar_u","kar_u2","LEPARC","Lepus_arcticus","LEPARC",0.17
+"kar",2022,"kar_u","kar_u2","LAGMUT","Lagopus_muta","LAGMUT",0.01
+"kar",2022,"kar_u","kar_u3","GOOSE","Anser_brachyrhynchus or Branta_leucopsis","GOOSE_4",0.11
+"kar",2022,"kar_u","kar_u3","OVIMOS","Ovibos_moschatus","OVIMOS",0.16
+"kar",2022,"kar_u","kar_u3","DICGRO","Dicrostonyx_groenlandicus","DICGRO",0.08
+"kev",2024,"kev_h","kev_h1","LEPTIM","Lepus_timidus","LEPTIM",0.06
+"kev",2024,"kev_h","kev_h1","RANTAR","Rangifer_tarandus","RANTAR",0.5
+"kev",2024,"kev_p","kev_p1","MYOSP","Myodes_rufocanus or Myodes_rutilus","MYOSP",0.54
+"kev",2024,"kev_p","kev_p1","LEMLEM","Lemmus_lemmus","LEMLEM",0.01
+"kev",2024,"kev_p","kev_p1","RANTAR","Rangifer_tarandus","RANTAR",0.05
+"kev",2024,"kev_h","kev_h2","LEPTIM","Lepus_timidus","LEPTIM",0.03
+"kev",2024,"kev_h","kev_h2","RANTAR","Rangifer_tarandus","RANTAR",0.86
+"kev",2024,"kev_p","kev_p2","RANTAR","Rangifer_tarandus","RANTAR",0.07
+"kev",2024,"kev_h","kev_h3","RANTAR","Rangifer_tarandus","RANTAR",0.49
+"kev",2024,"kev_p","kev_p3","MYOSP","Myodes_rufocanus or Myodes_rutilus","MYOSP",0.01
+"kev",2024,"kev_p","kev_p3","RANTAR","Rangifer_tarandus","RANTAR",0.01
+"kie",2023,"kie_p","kie_p1","RANTAR","Rangifer_tarandus","RANTAR",0.56
+"kie",2023,"kie_p","kie_p1","LAGSP","Lagopus_lagopus or Lagopus_muta","LAGSP",0.02
+"kie",2023,"kie_p","kie_p2","RANTAR","Rangifer_tarandus","RANTAR",0.63
+"kie",2023,"kie_p","kie_p2","LAGSP","Lagopus_lagopus or Lagopus_muta","LAGSP",0.01
+"kie",2023,"kie_p","kie_p3","RANTAR","Rangifer_tarandus","RANTAR",0.65
+"kie",2023,"kie_p","kie_p3","LAGSP","Lagopus_lagopus or Lagopus_muta","LAGSP",0.03
+"kil",2023,"kil_g","kil_g1","RANTAR","Rangifer_tarandus","RANTAR",0.43
+"kil",2023,"kil_g","kil_g1","SMALLM","Lemmus_lemmus or Myodes_rufocanus","SMALLM_3",0.21
+"kil",2023,"kil_h","kil_h1","RANTAR","Rangifer_tarandus","RANTAR",0.6
+"kil",2023,"kil_h","kil_h1","LEPTIM","Lepus_timidus","LEPTIM",0.02
+"kil",2023,"kil_h","kil_h1","SMALLM","Lemmus_lemmus or Myodes_rufocanus","SMALLM_3",0.13
+"kil",2023,"kil_g","kil_g2","RANTAR","Rangifer_tarandus","RANTAR",0.46
+"kil",2023,"kil_g","kil_g2","LEPTIM","Lepus_timidus","LEPTIM",0.05
+"kil",2023,"kil_g","kil_g2","SMALLM","Lemmus_lemmus or Myodes_rufocanus","SMALLM_3",0.26
+"kil",2023,"kil_h","kil_h2","RANTAR","Rangifer_tarandus","RANTAR",0.43
+"kil",2023,"kil_h","kil_h2","SMALLM","Lemmus_lemmus or Myodes_rufocanus","SMALLM_3",0.44
+"kil",2023,"kil_g","kil_g3","RANTAR","Rangifer_tarandus","RANTAR",0.41
+"kil",2023,"kil_g","kil_g3","LEPTIM","Lepus_timidus","LEPTIM",0.05
+"kil",2023,"kil_g","kil_g3","SMALLM","Lemmus_lemmus or Myodes_rufocanus","SMALLM_3",0.76
+"kil",2023,"kil_h","kil_h3","RANTAR","Rangifer_tarandus","RANTAR",0.23
+"kil",2023,"kil_h","kil_h3","LEPTIM","Lepus_timidus","LEPTIM",0.01
+"kil",2023,"kil_h","kil_h3","SMALLM","Lemmus_lemmus or Myodes_rufocanus","SMALLM_3",0.33
+"kom",2024,"kom_m","kom_c1","RANTAR","Rangifer_tarandus","RANTAR",0.14
+"kom",2024,"kom_m","kom_c1","SMALLM","Myodes_rufocanus or Microtus_oeconomus or Lemmus_lemmus","SMALLM_4",0.44
+"kom",2024,"kom_m","kom_c1","LAGSP","Lagopus_muta or Lagopus_lagopus","LAGSP",0.01
+"kom",2024,"kom_h","kom_a2","RANTAR","Rangifer_tarandus","RANTAR",0.42
+"kom",2024,"kom_h","kom_a2","SMALLM","Myodes_rufocanus or Microtus_oeconomus or Lemmus_lemmus","SMALLM_4",0.18
+"kom",2024,"kom_h","kom_a2","ALCALC","Alces_alces","ALCALC",0.07
+"kom",2024,"kom_h","kom_a2","LEPTIM","Lepus_timidus","LEPTIM",0.06
+"kom",2024,"kom_h","kom_a2","LAGSP","Lagopus_muta or Lagopus_lagopus","LAGSP",0.54
+"kom",2024,"kom_h","kom_e2","RANTAR","Rangifer_tarandus","RANTAR",0.37
+"kom",2024,"kom_h","kom_e2","ALCALC","Alces_alces","ALCALC",0.02
+"kom",2024,"kom_h","kom_e2","SMALLM","Myodes_rufocanus or Microtus_oeconomus or Lemmus_lemmus","SMALLM_4",0.4
+"kom",2024,"kom_h","kom_e2","LEPTIM","Lepus_timidus","LEPTIM",0.02
+"kom",2024,"kom_m","kom_a1","RANTAR","Rangifer_tarandus","RANTAR",0.19
+"kom",2024,"kom_m","kom_a1","SMALLM","Myodes_rufocanus or Microtus_oeconomus or Lemmus_lemmus","SMALLM_4",0.15
+"kom",2024,"kom_m","kom_a1","LEPTIM","Lepus_timidus","LEPTIM",0.01
+"kom",2024,"kom_m","kom_a1","ALCALC","Alces_alces","ALCALC",0.01
+"kom",2024,"kom_m","kom_e1","RANTAR","Rangifer_tarandus","RANTAR",0.23
+"kom",2024,"kom_m","kom_e1","ALCALC","Alces_alces","ALCALC",0.01
+"kom",2024,"kom_m","kom_e1","SMALLM","Myodes_rufocanus or Microtus_oeconomus or Lemmus_lemmus","SMALLM_4",0.62
+"kom",2024,"kom_m","kom_e1","LEPTIM","Lepus_timidus","LEPTIM",0.01
+"kom",2024,"kom_m","kom_e1","LAGSP","Lagopus_muta or Lagopus_lagopus","LAGSP",0.01
+"kom",2024,"kom_h","kom_c2","RANTAR","Rangifer_tarandus","RANTAR",0.18
+"kom",2024,"kom_h","kom_c2","LAGSP","Lagopus_muta or Lagopus_lagopus","LAGSP",0.02
+"kqn",2024,"kqn_g","kqn_g7","RANTAR","Rangifer_tarandus","RANTAR",0.78
+"kqn",2024,"kqn_g","kqn_g7","OVIMOS","Ovibos_moschatus","OVIMOS",0.05
+"kqn",2024,"kqn_g","kqn_g10","RANTAR","Rangifer_tarandus","RANTAR",0.87
+"kqn",2024,"kqn_g","kqn_g10","OVIMOS","Ovibos_moschatus","OVIMOS",0.04
+"kqn",2024,"kqn_g","kqn_g11","RANTAR","Rangifer_tarandus","RANTAR",0.79
+"kqn",2024,"kqn_g","kqn_g11","OVIMOS","Ovibos_moschatus","OVIMOS",0.09
+"kqs",2024,"kqs_g","kqs_g1","RANTAR","Rangifer_tarandus","RANTAR",0.4
+"kqs",2024,"kqs_g","kqs_g1","OVIMOS","Ovibos_moschatus","OVIMOS",0.21
+"kqs",2024,"kqs_g","kqs_g4","RANTAR","Rangifer_tarandus","RANTAR",0.31
+"kqs",2024,"kqs_g","kqs_g4","OVIMOS","Ovibos_moschatus","OVIMOS",0.13
+"kqs",2024,"kqs_g","kqs_g5","RANTAR","Rangifer_tarandus","RANTAR",0.68
+"kqs",2024,"kqs_g","kqs_g5","OVIMOS","Ovibos_moschatus","OVIMOS",0.31
+"nar",2022,"nar_p","nar_p1","LEPARC","Lepus_arcticus","LEPARC",0.02
+"nar",2022,"nar_p","nar_p3","LEPARC","Lepus_arcticus","LEPARC",0.02
+"nar",2022,"nar_p","nar_p1","LAGMUT","Lagopus_muta","LAGMUT",0.01
+"nii",2022,"nii_d","nii_d1","RANTAR","Rangifer_tarandus","RANTAR",0.1
+"nii",2022,"nii_d","nii_d1","LEPTIM","Lepus_timidus","LEPTIM",0.01
+"nii",2022,"nii_d","nii_d1","SMALLM","Lemmus_lemmus or Myodes_rufocanus","SMALLM_3",0.02
+"nii",2022,"nii_d","nii_d2","RANTAR","Rangifer_tarandus","RANTAR",0.36
+"nii",2022,"nii_d","nii_d2","LEPTIM","Lepus_timidus","LEPTIM",0.04
+"nii",2022,"nii_d","nii_d3","RANTAR","Rangifer_tarandus","RANTAR",0.32
+"pet",2024,"pet_h","pet_h1","RANTAR","Rangifer_tarandus","RANTAR",0.78
+"pet",2024,"pet_h","pet_h1","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.3
+"pet",2024,"pet_h","pet_h1","LAGMUT","Lagopus_muta","LAGMUT",0.02
+"pet",2024,"pet_h","pet_h2","RANTAR","Rangifer_tarandus","RANTAR",0.29
+"pet",2024,"pet_h","pet_h2","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.55
+"pet",2024,"pet_h","pet_h3","RANTAR","Rangifer_tarandus","RANTAR",0.81
+"pet",2024,"pet_h","pet_h3","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.23
+"pet",2024,"pet_h","pet_h3","LAGMUT","Lagopus_muta","LAGMUT",0.02
+"pet",2024,"pet_l","pet_l1","RANTAR","Rangifer_tarandus","RANTAR",0.35
+"pet",2024,"pet_l","pet_l1","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.17
+"pet",2024,"pet_l","pet_l2","RANTAR","Rangifer_tarandus","RANTAR",0.5
+"pet",2024,"pet_l","pet_l2","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.11
+"pet",2024,"pet_l","pet_l2","LAGMUT","Lagopus_muta","LAGMUT",0.02
+"pet",2024,"pet_l","pet_l3","RANTAR","Rangifer_tarandus","RANTAR",0.27
+"pet",2024,"pet_l","pet_l3","ANSBRA","Anser_brachyrhynchus","ANSBRA",0.03
+"pet",2024,"pet_l","pet_l3","LAGMUT","Lagopus_muta","LAGMUT",0.21
+"pik",2024,"pik_h","pik_h1","UROPAR","Urocitellus_parryii","UROPAR",0.03
+"pik",2024,"pik_h","pik_h1","LAGSP","Lagopus_muta or Lagopus_lagopus","LAGSP",0.02
+"pik",2024,"pik_h","pik_h2","UROPAR","Urocitellus_parryii","UROPAR",0.01
+"pik",2024,"pik_h","pik_h2","LAGSP","Lagopus_muta or Lagopus_lagopus","LAGSP",0.01
+"pik",2024,"pik_h","pik_h3","LAGSP","Lagopus_muta or Lagopus_lagopus","LAGSP",0.02
+"tar",2024,"tar_d","tar_d2","RANTAR","Rangifer_tarandus","RANTAR",0.06
+"tar",2024,"tar_d","tar_d2","LEPARC","Lepus_arcticus","LEPARC",0.12
+"tar",2024,"tar_d","tar_d1","RANTAR","Rangifer_tarandus","RANTAR",0.03
+"tar",2024,"tar_d","tar_d1","LEPARC","Lepus_arcticus","LEPARC",0.17
+"tar",2024,"tar_d","tar_d3","LEPARC","Lepus_arcticus","LEPARC",0.08
+"tar",2024,"tar_m","tar_m1","RANTAR","Rangifer_tarandus","RANTAR",0.06
+"tar",2024,"tar_m","tar_m1","LEPARC","Lepus_arcticus","LEPARC",0.1
+"tar",2024,"tar_m","tar_m2","RANTAR","Rangifer_tarandus","RANTAR",0.08
+"tar",2024,"tar_m","tar_m2","LEPARC","Lepus_arcticus","LEPARC",0.14
+"tar",2024,"tar_m","tar_m3","LEPARC","Lepus_arcticus","LEPARC",0.12
+"tar",2024,"tar_m","tar_m3","RANTAR","Rangifer_tarandus","RANTAR",0.15
+"the",2023,"the_h","the_h3","OVIARI","Ovis_aries","OVIARI",0.03
+"the",2023,"the_h","the_h1","OVIARI","Ovis_aries","OVIARI",0.02
+"the",2023,"the_h","the_h2","OVIARI","Ovis_aries","OVIARI",0.06
+"the",2023,"the_m","the_m2","OVIARI","Ovis_aries","OVIARI",0.01
+"too",2023,"too_d","too_d1","UROPAR","Urocitellus_parryii","UROPAR",0.01
+"too",2023,"too_d","too_d1","RANTAR","Rangifer_tarandus","RANTAR",0.39
+"too",2023,"too_d","too_d1","LAGLAG","Lagopus_lagopus","LAGLAG",0.25
+"too",2023,"too_t","too_t1","LAGLAG","Lagopus_lagopus","LAGLAG",0.01
+"too",2023,"too_t","too_t1","RANTAR","Rangifer_tarandus","RANTAR",0.12
+"too",2023,"too_d","too_d2","RANTAR","Rangifer_tarandus","RANTAR",0.87
+"too",2023,"too_d","too_d2","LAGLAG","Lagopus_lagopus","LAGLAG",0.12
+"too",2023,"too_d","too_d2","UROPAR","Urocitellus_parryii","UROPAR",0.15
+"too",2023,"too_t","too_t2","RANTAR","Rangifer_tarandus","RANTAR",0.14
+"too",2023,"too_d","too_d3","RANTAR","Rangifer_tarandus","RANTAR",0.63
+"too",2023,"too_d","too_d3","UROPAR","Urocitellus_parryii","UROPAR",0.13
+"too",2023,"too_d","too_d3","LAGLAG","Lagopus_lagopus","LAGLAG",0.01
+"too",2023,"too_t","too_t3","RANTAR","Rangifer_tarandus","RANTAR",0.21
+"too",2023,"too_t","too_t3","LAGLAG","Lagopus_lagopus","LAGLAG",0.03
+"utq",2024,"utq_p","utq_p1","RANTAR","Rangifer_tarandus","RANTAR",0.11
+"utq",2024,"utq_p","utq_p1","GOOSE","Anser_albifrons or Branta_bernicla","GOOSE_5",0.16
+"utq",2024,"utq_u","utq_u1","RANTAR","Rangifer_tarandus","RANTAR",0.32
+"utq",2024,"utq_u","utq_u1","GOOSE","Anser_albifrons or Branta_bernicla","GOOSE_5",0.56
+"utq",2024,"utq_p","utq_p2","LEMTRI","Lemmus_trimucronatus","LEMTRI",0.11
+"utq",2024,"utq_p","utq_p2","RANTAR","Rangifer_tarandus","RANTAR",0.07
+"utq",2024,"utq_p","utq_p2","GOOSE","Anser_albifrons or Branta_bernicla","GOOSE_5",0.3
+"utq",2024,"utq_u","utq_u2","LEMTRI","Lemmus_trimucronatus","LEMTRI",0.01
+"utq",2024,"utq_u","utq_u2","RANTAR","Rangifer_tarandus","RANTAR",0.72
+"utq",2024,"utq_u","utq_u2","GOOSE","Anser_albifrons or Branta_bernicla","GOOSE_5",0.73
+"utq",2024,"utq_p","utq_p3","RANTAR","Rangifer_tarandus","RANTAR",0.11
+"utq",2024,"utq_p","utq_p3","GOOSE","Anser_albifrons or Branta_bernicla","GOOSE_5",0.33
+"utq",2024,"utq_u","utq_u3","RANTAR","Rangifer_tarandus","RANTAR",0.58
+"utq",2024,"utq_u","utq_u3","GOOSE","Anser_albifrons or Branta_bernicla","GOOSE_5",0.85
+"vje",2024,"vje_m","vje_c1","RANTAR","Rangifer_tarandus","RANTAR",0.34
+"vje",2024,"vje_m","vje_c1","SMALLM","Myodes_rufocanus or Microtus_oeconomus or Lemmus_lemmus","SMALLM_4",0.16
+"vje",2024,"vje_m","vje_c1","LAGSP","Lagopus_muta or Lagopus_lagopus","LAGSP",0.01
+"vje",2024,"vje_m","vje_b1","RANTAR","Rangifer_tarandus","RANTAR",0.29
+"vje",2024,"vje_m","vje_b1","SMALLM","Myodes_rufocanus or Microtus_oeconomus or Lemmus_lemmus","SMALLM_4",0.34
+"vje",2024,"vje_h","vje_c2","RANTAR","Rangifer_tarandus","RANTAR",0.32
+"vje",2024,"vje_h","vje_c2","SMALLM","Myodes_rufocanus or Microtus_oeconomus or Lemmus_lemmus","SMALLM_4",0.55
+"vje",2024,"vje_h","vje_c2","LAGSP","Lagopus_muta or Lagopus_lagopus","LAGSP",0.03
+"vje",2024,"vje_h","vje_e2","RANTAR","Rangifer_tarandus","RANTAR",0.09
+"vje",2024,"vje_h","vje_e2","SMALLM","Myodes_rufocanus or Microtus_oeconomus or Lemmus_lemmus","SMALLM_4",0.28
+"vje",2024,"vje_h","vje_d2","RANTAR","Rangifer_tarandus","RANTAR",0.04
+"vje",2024,"vje_h","vje_d2","SMALLM","Myodes_rufocanus or Microtus_oeconomus or Lemmus_lemmus","SMALLM_4",0.11
+"vje",2024,"vje_m","vje_e1","RANTAR","Rangifer_tarandus","RANTAR",0.41
+"vje",2024,"vje_m","vje_e1","SMALLM","Myodes_rufocanus or Microtus_oeconomus or Lemmus_lemmus","SMALLM_4",0.15
+"vrs",2024,"vrs_a","vrs_a2","LAGMUT","Lagopus_muta","LAGMUT",0.03
