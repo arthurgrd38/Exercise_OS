@@ -76,4 +76,4 @@ ggplot(herbivore_data_shannon, aes(x = site, y = shannon, fill = site)) +
 
 The `echo: false` option disables the printing of code (only output is displayed).
 
-<!--# AG: v ery very good about the Quarto coding. the read me is there and clear. The html resulting from this script is nice and easy to follow. This github is doing a good first version of open science by its reproducibility and its accessibility. -->
+<!--# AG: very very good about the Quarto coding. the read me is there and clear. The html resulting from this script is nice and easy to follow. This github is doing a good first version of open science by its reproducibility and its accessibility. -->
