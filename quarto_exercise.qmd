@@ -1,0 +1,77 @@
+---
+title: "Herbivore diversity: shannon index"
+format: html
+editor: visual
+author: Charlotte Wagner
+---
+
+```{r}
+#| warning: false
+#Import libraries
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+library(stringr)
+library(tibble)
+library(vegan)  # to calculate Shannon
+```
+
+# Introduction
+
+This document shows shannon diversity indices of herbivores species recorded at 27 sites accross the Arctic. At each site, prevalence-based abundance of herbivore species were assessed to calculate the index (more in Methods section)
+
+# Methods
+
+Data was collected using a common data collection protocol at 27 sites ranging from the low to the high Arctic, during the peak of the growing seasons 2022 to 2024 (late July to early August). Most sites (21 out of 27) included two habitat types to capture a broad gradient of environmental conditions used by vertebrate herbivores within each site. Within each habitat type, three patches were randomly selected, with patches separated by at least 100 m. Most sites (18 of 27) therefore included six patches, resulting in 144 patches across the 27 sites. Patches represented the local scale in this study.
+
+In each patch, vertebrate herbivore species richness was estimated from pellets presence and absence\[HL19.1\] recorded in 1-m² subplots along ten 10-m linear transects. Most pellets were assigned to a single species, whereas some could correspond to several potential species (e.g. goose pellets). For each patch, species\[HL20.1\] richness was calculated as the total number of species detected, counting all potential species when a pellet could be assigned to multiple species.
+
+#Data analysis
+
+```{r}
+#| label: load-data
+#load data. for each patch, this dataset shows the prevalence-based abundance of
+#species identified from pellets.
+
+herbivore_data<-read.csv("data/herbivore_data.csv")
+```
+
+```{r}
+#| label: community_matrix
+
+#calculates herbivore community matrix, needed to apply shannon function
+#in vegan package
+herbivore_comm_matrix <- herbivore_data %>%
+  select(patch, species_herbivore_new_groups, prevalence) %>% 
+  pivot_wider(names_from = species_herbivore_new_groups,
+              values_from = prevalence,
+              values_fill = 0) %>% 
+  column_to_rownames("patch") %>%  # keeps patch as row names for identification
+  as.matrix()
+```
+
+```{r}
+#| label: shannon diversity
+
+shannon <- diversity(herbivore_comm_matrix, index = "shannon") |>  
+  enframe(name = "patch", value = "shannon") # converts vector to data frame
+
+#joint the results with the initial dataset
+herbivore_data_shannon <- herbivore_data |> 
+  left_join(shannon, by = "patch") 
+```
+
+```{r}
+#| label: plot
+#| fig-cap: "Here is the figure showing shannon diversity index for each site!"
+#| 
+ggplot(herbivore_data_shannon, aes(x = site, y = shannon, fill = site)) +
+  geom_boxplot(alpha = 0.6, outlier.shape = NA) +
+  geom_jitter(width = 0.2, size = 2, alpha = 0.7) +
+  guides(fill="none")+
+  theme_classic() +
+  labs(title = "Shannon diversity index per site",
+       x = "Sites", y = "Shannon diversity index") 
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
